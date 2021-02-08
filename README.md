@@ -1,6 +1,4 @@
-### Hi there 👋
 
-<!--
 **Subodh1555/Subodh1555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Design and Development](https://github.com/Sagar1555/timalsenasagar.com.np/blob/master/img/Hdmlab.png)
 
